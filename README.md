@@ -1,6 +1,6 @@
-# 🍕 PIZZA SALES ANALYSIS
+# 🍕PIZZA SALES ANALYSIS
 
-### PROJECT DESCRIPTION
+### 📘PROJECT DESCRIPTION
 
 This project explores pizza sales data to uncover business insights such as sales trends, top-performing pizza types, and customer ordering patterns.
 It combines SQL for data querying and Power BI for visualization, transforming raw transactional data into a dynamic and interactive report.
@@ -9,7 +9,7 @@ Although it began as a guided project, I expanded it by writing and refining my 
 
 
 
-### PROJECT OBJECTIVES
+### 🎯PROJECT OBJECTIVES
 
 1. Compute key performance indicators (KPIs) such as Total Revenue, Total Orders, Total Pizzas Sold, Average Order Value, and Avg Pizza per Order.
    
@@ -23,7 +23,7 @@ Although it began as a guided project, I expanded it by writing and refining my 
 
    
 
-### 🧰 TOOLS
+### 🧰TOOLS
 
 1. **SQL Server Management Studio (SSMS)** – Data querying and calculations.
 
@@ -31,7 +31,7 @@ Although it began as a guided project, I expanded it by writing and refining my 
 
 
 
-### 🗂️ DATASET INFORMATION 
+### 🗂️DATASET INFORMATION 
 
 - Source: Pizza Sales dataset (CSV)
 
@@ -156,17 +156,42 @@ The interactive dashboard brings the analysis to life through clear, dynamic vis
 
 It features:
 
-KPI cards displaying total revenue, total orders, and total pizzas sold.
+- _KPI cards displaying total revenue, total orders, and total pizzas sold._
 
-Sales breakdowns by category and pizza size, showing which products drive the most value.
+- _Sales breakdowns by category and pizza size, showing which products drive the most value._
 
-Hourly and daily order trends, revealing customer buying patterns across different times and days.
+- _Hourly and daily order trends, revealing customer buying patterns across different times and days._
 
-Top and bottom-selling pizzas, highlighting performance extremes for business insight.
+- _Top and bottom-selling pizzas, highlighting performance extremes for business insight._
 
-A slicer-enabled Insight Panel, allowing users to filter data by date, pizza size, or category for deeper exploration.
-
-**Click the image below to watch the full project walkthrough.**
+- _A slicer-enabled Insight Panel, allowing users to filter data by date, pizza size, or category for deeper exploration._
+  
+**Click the image below to watch the full project walkthrough⬇️.**
 
 [![Watch the video](HOME_PAGE.jpg)](https://drive.google.com/file/d/1uYKUViDSk7K5I2RYBfhd750iUGRj5i-X/view?usp=sharing)
 
+### 🧭KEY LEARNINGS
+
+- Gained a clearer understanding of how to align SQL-calculated metrics directly with Power BI visuals for accuracy and consistency.
+
+- Developed stronger troubleshooting and validation skills, particularly when identifying and correcting mismatched data values.
+
+- Deepened knowledge of SQL aggregation, filtering, and subqueries—and how they apply to solving real business problems.
+
+- Improved ability to design clean, interactive dashboards that effectively communicate insights and support decision-making.
+
+### 🏁CONCLUSION
+
+This project was a true bridge between theory and application, combining SQL logic, analytical storytelling, and business interpretation. Every query written and every visual designed strengthened my understanding of how raw data evolves into meaningful, decision-driven insight.
+
+### 🙏ACKNOWLEDGEMENT
+
+Sincere appreciation to Data Tutorials for the structured guidance and learning framework that shaped the direction and depth of this analysis.
+
+### 📩CONTACT ME
+
+Feel free to reach out via
+
+- My E-mail: portiareginald06@gmail.com
+
+- My LinkedIn: [Portia Reginald Anrulika](https://www.linkedin.com/in/portia-reginald-13103719a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
