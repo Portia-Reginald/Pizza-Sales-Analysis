@@ -92,7 +92,7 @@ Sales displayed a steady upward trend toward the weekend, with Thursday and Frid
 
 ![](DAILY_TREND_FOR_TOTAL_ORDERS.jpg)
 
-#### **_3. Hourly Trend:  12pm was the period of with the highest orders of 2520_**
+#### **_3. Hourly Trend:_**
 
 ![](HOURLY_TREND_FOR_TOTAL_ORDERS.jpg)
 
